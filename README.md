@@ -36,7 +36,7 @@ unzip and replace all files in c:\ProgramData\Prism2\plugins\Afanasy\
 
 option 2 (git)
 1. Open your command line
-1. Go to the `Cinema` prism's dedicated plugin folder: `c:\ProgramData\Prism2\plugins`
+1. Go to the `Afanasy` prism's dedicated plugin folder: `c:\ProgramData\Prism2\plugins`
 1. Pull the lastest changes
     1. `git pull`
 1. (Re)start Prism or use the `Reload all plugins` button in Prism's settings > `Plugins` tab
