@@ -1,6 +1,6 @@
-# Afanasy 4D plugin for Prism 2.0
+# Afanasy plugin for Prism 2.0
 
-> Afanasy 4D plugin for Prism allow you to connect prism to render maneger Afanasy (https://cgru.info/)
+> Afanasy plugin for Prism allow you to connect prism to render maneger Afanasy (https://cgru.info/)
 
 ## **Note: 
 This plugin has been tested on Windows 10 with Maya 2023 and Prism v2.0.beta17.13
@@ -21,7 +21,7 @@ Option 2 (git)
 1. Open your command line
 1. Go to the Prism's dedicated plugin folder for ProjectManagers: `c:\ProgramData\Prism2\plugins`
 1. Clone the repository in the previous folder, with a custom directory name
-    1. `git clone  https://github.com/kapellan2000/Afanasy.git Cinema`
+    1. `git clone  https://github.com/kapellan2000/Afanasy.git Afanasy`
 ## Setup
 1. Open Prism
 1. Go to Prism's settings > User >`Plugins` tab
